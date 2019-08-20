@@ -1,6 +1,15 @@
 # Degree
+<<<<<<< HEAD
 - degree:, Full Stack Webdeveloper Nanodegree  
   uni:, Udacity
   year:, June, 2014 &mdash; January, 2015
   # awards:
   # summary:,
+||||||| merged common ancestors
+- degree: Full Stack Webdeveloper Nanodegree
+  uni: Udacity
+  year: June, 2014 &mdash; January, 2015
+  # awards: 
+  # summary: 
+=======
+>>>>>>> master
